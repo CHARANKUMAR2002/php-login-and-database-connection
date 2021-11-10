@@ -1,0 +1,44 @@
+#card{
+    height: 500px;
+}
+
+#mail
+{
+    margin-top: 50px;
+    width:300px;
+    margin-left: 80px;
+    background-color: rgba(0, 0, 0, 0.541);
+    color: aqua;
+    border-radius: 30px;
+    padding-left: 40px;
+    border-style: solid;
+
+}
+#pass
+{
+    margin-top: 50px;
+    width:300px;
+    margin-left: 80px;
+    background-color: rgba(0, 0, 0, 0.541);
+    color: aqua;
+    border-radius: 30px;
+    padding-left: 40px;
+    border-style: solid;
+    padding-right: 40px;
+}
+
+.user i{
+    position: absolute;
+    top: 123px;
+    left: 115px;
+}
+.pass i{
+    position: absolute;
+    top: 203px;
+    left: 115px;
+}
+p{
+    background-color: transparent;
+    color: red;
+    padding-top: 50px;
+}
